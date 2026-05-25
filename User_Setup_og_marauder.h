@@ -79,7 +79,7 @@
 // If colours are inverted (white shows as black) then uncomment one of the next
 // 2 lines try both options, one of the options should correct the inversion.
 
-// #define TFT_INVERSION_ON
+#define TFT_INVERSION_ON
 // #define TFT_INVERSION_OFF
 
 // If a backlight control signal is available then define the TFT_BL pin in Section 2
